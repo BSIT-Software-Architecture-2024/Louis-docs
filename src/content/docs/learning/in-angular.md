@@ -3,7 +3,6 @@ title: In Angular
 description: A personal story of my first experience with Angular
 ---
 
-# My Journey into Angular: A Laravel Developer's Story
 
 ## The Excitement Phase
 

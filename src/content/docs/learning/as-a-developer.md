@@ -4,7 +4,7 @@ description: An exciting tale of growth, leadership, and full-stack mastery in w
 ---
 
 ## Introduction
-Hey there! Let me take you on an exciting journey through my evolution from a BSIT student to wearing multiple hats as a Scrum Master and Software Engineer. Trust me, it's been quite the adventure, filled with challenges, victories, and plenty of "aha!" moments that shaped me into the developer I am today.
+Hey there! this is my journey through my evolution from a BSIT student to wearing multiple hats as a Scrum Master and Software Engineer. Trust me, it's been quite the adventure, filled with challenges, victories, and plenty of "aha!" moments that shaped me into the developer I am today.
 
 ## The Leadership Adventure
 
