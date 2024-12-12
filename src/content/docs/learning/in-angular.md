@@ -2,9 +2,7 @@
 title: In Angular
 description: A personal story of my first experience with Angular
 ---
-
-
-## The Excitement Phase
+## Introduction
 
 As a Laravel developer, I was thrilled to dive into Angular for my Student Portal project. The familiar feeling of using CLI commands, just like in Laravel's artisan, made me feel right at home. Creating components was a breeze - it reminded me of how I generate controllers and models in Laravel.
 
