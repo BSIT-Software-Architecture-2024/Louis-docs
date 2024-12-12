@@ -8,26 +8,43 @@ hero:
     file: ../../assets/houston.webp
   actions:
     - text: Open the docs
-      link: /Louis-docs/dccp-admin-panel-fullstack/example/
+      link: /Louis-docs/learning/as-a-developer
       icon: right-arrow
 
 ---
-
+import { ShowcaseCTA } from 'starlight-showcases';
+import { ShowcaseProfile } from 'starlight-showcases';
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+<ShowcaseCTA>
+		Want to collaborate on a project? [Let's talk!](mailto:louis@example.com)
+</ShowcaseCTA>
+
+<ShowcaseProfile
+		entries={[
+				{
+						name: 'Louis Lukkanit',
+						picture: 'https://avatars.githubusercontent.com/u/128908897?v=4',
+						href: 'https://github.com/louislukkanit',
+						description:
+								"Full-stack developer specializing in Laravel & React. Building robust web applications with clean, maintainable code.",
+				}
+		]}
+/>
+
+## What I Do
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Laravel Development" icon="puzzle">
+		Building scalable backend systems and APIs with Laravel's elegant framework.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="React Frontend" icon="blocks">
+		Creating responsive and interactive user interfaces with modern React.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Full Stack Solutions" icon="setting">
+		Bridging backend and frontend to deliver complete web applications.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Code Quality" icon="check">
+		Writing clean, tested, and maintainable code that stands the test of time.
 	</Card>
 </CardGrid>
